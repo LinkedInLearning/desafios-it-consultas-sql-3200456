@@ -1,13 +1,13 @@
-# Nombre final del curso
+# Desafíos IT: consultas SQL
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Desafíos IT: consultas SQL]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Desafíos IT: consultas SQL][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
-
+Expande tus conocimientos y refuerza tus habilidades de SQL por medio de ejercicios prácticos con este contenido. El curso tiene como objetivo resolver ejercicios de SQL de distintas dificultades, planteados de menos a más, para poner en práctica y retar todo lo que crees saber sobre este lenguaje. Durante la formación te enfrentarás a dos bases de datos y muchos retos que debes completar sobre ellas. Primero se te planteará el desafío, después se te ofrece la solución para que puedas comprobar tus resultados.
 ## Instrucciones
 
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
@@ -26,9 +26,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Lincy González Rojas**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/lincy-gonzalez-rojas/).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
