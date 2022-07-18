@@ -7,6 +7,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Desafíos IT: consultas 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+
 Expande tus conocimientos y refuerza tus habilidades de SQL por medio de ejercicios prácticos con este contenido. El curso tiene como objetivo resolver ejercicios de SQL de distintas dificultades, planteados de menos a más, para poner en práctica y retar todo lo que crees saber sobre este lenguaje. Durante la formación te enfrentarás a dos bases de datos y muchos retos que debes completar sobre ellas. Primero se te planteará el desafío, después se te ofrece la solución para que puedas comprobar tus resultados.
 ## Instrucciones
 
