@@ -20,10 +20,12 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - MySQL 8.0.28
+   - MySQL Workbench
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Descarga las bases de datos Bicicleta.db.sql y Cine.db.sql.
+4. Resuelve los desafíos y luego puedes comparar tus query con los proporcionados en el curso.
 
 ### Docente
 
