@@ -1,0 +1,3 @@
+SELECT * FROM producto
+WHERE precio BETWEEN 400 AND 600
+ORDER BY precio;
