@@ -29,7 +29,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 **Lincy González Rojas**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/lincy-gonzalez-rojas).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/desafios-it-consultas-sql/aprende-sobre-consultas-sql-con-ejemplos-practicos
